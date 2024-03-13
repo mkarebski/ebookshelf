@@ -1,9 +1,7 @@
 # ebookshelf
 
 
-
 ## Introduction
-
 
 
 ## Build locally
