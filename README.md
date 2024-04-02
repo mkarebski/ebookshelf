@@ -13,3 +13,5 @@ Until decided differently, this repository's purpose is solely learning.
 
 ## Notes
 ## Links
+
+https://nextjs.org/learn/dashboard-app/
