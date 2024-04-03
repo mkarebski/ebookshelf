@@ -9,6 +9,7 @@ The idea is to go through the tutorial and based on that build an application th
 Until decided differently, this repository's purpose is solely learning.
 
 ## Build locally
+
 ## Roadmap
 
 ## Notes
