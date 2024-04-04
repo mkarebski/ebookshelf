@@ -10,6 +10,10 @@ Until decided differently, this repository's purpose is solely learning.
 
 ## Build locally
 
+```
+npm run dev
+```
+
 ## Roadmap
 
 ## Notes
